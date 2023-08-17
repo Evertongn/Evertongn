@@ -1,8 +1,8 @@
-# Ola pessoal ‼️
+# Ola pessoal :satellite:
 
 Sou Desenvolvedor de Software **Back-end** desde 2023, atualmente estutando da cubos acadamey
 
-##  ‼️ 💻 Para me econtrar :
+##  💻 Para me econtrar :
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LinkRedeSocial](https://www.linkedin.com/in/everton-gomes-a791a5104/)https://www.linkedin.com/in/everton-gomes-a791a5104/)
 
 ## Hard Skill:
