@@ -3,7 +3,7 @@
 Sou Desenvolvedor de Software **Back-end** desde 2023, atualmente estutando da cubos acadamey
 
 ## Para me econtrar 💬 :
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-gomes-a791a5104/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-gomes-n/)
 
 ## Hard Skill 💻 :
 ![java](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
