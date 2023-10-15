@@ -1,6 +1,6 @@
 # Ola pessoal :satellite:
 
-Sou Desenvolvedor de Software **Back-end** desde 2023, atualmente estutando na cubos acadamey 
+Estou empenhado em meu desenvolvimento como desenvolvedor. Atualmente, estou direcionando meu foco para o desenvolvimento backend, utilizando o padrão REST e a linguagem JavaScript. Estou determinado a me especializar na área de software.
 
 [![linkedin](https://avatars.githubusercontent.com/u/64142676?s=50&v=4)](https://cubos.academy/)
 
