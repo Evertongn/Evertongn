@@ -1,13 +1,17 @@
 # Ola pessoal :satellite:
 
-Estou empenhado em meu desenvolvimento como desenvolvedor. Atualmente, estou direcionando meu foco para o desenvolvimento backend, utilizando o padrão REST e a linguagem JavaScript. Estou determinado a me especializar na área de software.
+Após minha experiência no setor industrial mecânico e de automação, bem como no mercado financeiro, estou comprometido com o meu desenvolvimento como desenvolvedor. Atualmente, estou direcionando meu foco para o desenvolvimento backend, utilizando o padrão REST e a linguagem JavaScript. Estou determinado a me especializar na área de software. 💻🚀
 
-[![linkedin](https://avatars.githubusercontent.com/u/64142676?s=50&v=4)](https://cubos.academy/)
-
-## Para me econtrar 💬 :
+## Para me econtrar 📞 📧  ## 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-gomes-n/)
+**E-mail**: evertongn@hotmail.com
 
 ## Hard Skill 💻 :
+- Desenvolvimento Back-end com JavaScript e Node.js
+- Criação de APIs REST 🌐
+- Gerenciamento de bancos de dados, incluindo PostgreSQL e SQL 📊
+- Proficiência em Git e metodologias ágeis 🌀
+- Excelentes habilidades de comunicação e colaboração 💬
 
 ![java](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
