@@ -3,7 +3,7 @@
 Após minha experiência no setor industrial mecânico e de automação, bem como no mercado financeiro, estou comprometido com o meu desenvolvimento como desenvolvedor. Atualmente, estou direcionando meu foco para o desenvolvimento backend, utilizando o padrão REST e a linguagem JavaScript. Estou determinado a me especializar na área de software. 💻🚀
 
 ## Para me econtrar 📞 📧  ## 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-gomes-n/)
+- **LinkedIn**: [linkedin.com/in/everton-gomes-n](https://www.linkedin.com/in/everton-gomes-n)
 - **E-mail**: evertongn@hotmail.com
 
 ## Hard Skill 💻 :
