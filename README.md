@@ -4,7 +4,7 @@ Após minha experiência no setor industrial mecânico e de automação, bem com
 
 ## Para me econtrar 📞 📧  ## 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-gomes-n/)
-**E-mail**: evertongn@hotmail.com
+- **E-mail**: evertongn@hotmail.com
 
 ## Hard Skill 💻 :
 - Desenvolvimento Back-end com JavaScript e Node.js
